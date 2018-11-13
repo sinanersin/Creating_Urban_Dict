@@ -1,6 +1,8 @@
 # PizzaPlace
 Big Data, group assignment
 
+This project is made by Jan Jetze Beitler, Sinan Ersin, Aswathy George, Stefan Haan, Axel Hirschel and Roos Slingerland.
+
 To run the simulation of our Urban Dictionary creation, clone the repository and run pipeline.py (of course make sure the paths are set correctly).
 
 Download the comments from January 1 up to 31 2015 from:
